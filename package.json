@@ -15,6 +15,7 @@
   "dependencies": {
     "@types/node": "^20.8.10",
     "fastify": "^4.24.3",
+    "node-http": "^0.0.5",
     "postgres": "^3.4.3"
   },
   "devDependencies": {
